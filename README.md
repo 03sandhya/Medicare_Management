@@ -1,4 +1,4 @@
-Medicare_Management
+Medicare_Management procedure : 
 Download the project as Zip or use git clone to download in your local machine. 
 go to the directoryand give the command npm i in terminal to install all necessary packages . 
 start the project using npm run dev. Go to the website of supabase , do login and create a project , get the URL and key.
